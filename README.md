@@ -12,3 +12,6 @@ Beneficiario e Documentos.
 
 Os campos de log inclusão e atualização serão feitos por trigger do banco.
 
+o nome do schema é ekan
+
+e os scripts das tabelas estão em anexo.
